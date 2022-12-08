@@ -180,7 +180,7 @@ font-size: 20px;
     .skill:hover{
         transform: translateY(-10px);
         transition-duration: 0.7s;
-        background-color: #77757549;
+        background-color: #da1d5949;
         transition: 0.5s;
     }  
 
@@ -211,7 +211,7 @@ font-size: 20px;
     }
     .In{
         position: absolute;
-        color: #45aedb;
+        color: #cb5d26;
         font-size: 20px;
         font-family:sans-serif;
     }
@@ -410,3 +410,7 @@ form input, form textarea{
     margin-top: 10px;
     display: block;
 }
+
+
+/*-------------------css for small screen */
+
